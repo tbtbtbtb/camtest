@@ -6,7 +6,7 @@
     "url": "https://github.com/tbtbtbtb/camtest.git"
   },
   "description": "camtest",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "http": "*",
     "http-proxy": "*"
